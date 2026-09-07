@@ -1,4 +1,4 @@
-# Semester Flow｜个人学期工作流
+Semester Flow｜个人学期工作流
 
 基于 ChatGPT 与 Codex 构建的个人学期管理 Web 原型。
 
