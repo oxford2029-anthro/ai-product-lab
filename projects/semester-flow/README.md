@@ -80,6 +80,7 @@ Semester Flow｜个人学期工作流
 - 完成后的任务直接消失，不利于回顾这一周实际完成了什么
 - 页面比较固定，无法很好适应临时变化
 - 电脑网页作为主要入口，在临时调整计划时不够方便
+- 第一版重点是把 Daily / Weekly / Tasks / Reflection 等功能尽量整合进去。
 <img width="1431" height="801" alt="02" src="https://github.com/user-attachments/assets/01b96da0-3424-4501-a039-8f35c9e91817" />
 <img width="1433" height="851" alt="01" src="https://github.com/user-attachments/assets/06a1f675-701e-4a83-a52f-10b0726dfab2" />
  
@@ -98,20 +99,19 @@ Semester Flow｜个人学期工作流
 - 提高整个工作流的灵活性
 
 这次迭代让我开始关注的，不再只是“这个功能能不能实现”，而是：
-
 **它是否真的降低了我的使用成本？**
-<img width="1440" height="900" alt="截屏2026-09-07 19 52 05" src="https://github.com/user-attachments/assets/ff4ce99e-d3e0-417f-8b5d-bd8910111ac5" />
-<img width="1440" height="900" alt="截屏2026-09-07 19 52 31" src="https://github.com/user-attachments/assets/52ec07dc-668b-4374-a4ac-10d13260280f" />
-<img width="1440" height="900" alt="截屏2026-09-07 19 51 45" src="https://github.com/user-attachments/assets/f0ff7f3c-3353-4a89-b8f9-4302b12b39b8" />
-
+真实使用后，我开始减少低频功能，并强化周计划、任务可见性与复盘逻辑。
+<img width="1420" height="852" alt="截屏2026-09-07 19 52 05" src="https://github.com/user-attachments/assets/ce962061-8773-4591-b845-5d0784a5e779" />
+<img width="1435" height="811" alt="截屏2026-09-07 19 51 45" src="https://github.com/user-attachments/assets/edb083d8-f504-4116-b6d5-16731f2cc596" />
+<img width="1424" height="840" alt="截屏2026-09-07 19 52 31" src="https://github.com/user-attachments/assets/b707359d-2386-4f3e-92d8-82710027f9e8" />
+当前版本将每日总结调整为每周复盘，保留完成状态，增加未来任务与每周个人目标，并强化周视图中的任务信息展示。
 
 ## 06 我学到了什么｜Reflection
+我一开始以为这个项目最难的是“我不会写代码”。但真正用了一段时间后，我发现代码反而不是最难的部分。更难的是，我自己一开始也并不知道什么样的工作流才真的适合我。
 
-这次 Vibe Coding 让我意识到，AI 大幅降低了把想法做成原型的技术门槛，但真正困难的部分仍然是：
+第一版里，我把很多“看起来合理”的功能都放了进去。但真正使用时，有些功能我根本不愿意维护。这个过程让我意识到，Vibe Coding 最有价值的地方不只是降低开发门槛，而是让产品试错变得足够便宜。我可以很快把一个想法做出来，然后更快发现这个想法哪里不对。
 
-**问题定义 → 情境理解 → 规则设计 → 产品判断 → 真实测试 → 迭代**
-
-AI 很擅长回答“怎么实现”，但“为什么要做”“真正的问题是什么”“这个功能实际是否有用”，仍然需要人的判断。
+所以后面的迭代里，我开始少问“还能加什么”，而更多问“什么应该删掉”“什么步骤让我不想打开它”“这个系统有没有真的降低我的负担”。
 
 ## 07 当前状态
 
